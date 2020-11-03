@@ -112,10 +112,10 @@ begin
       {***********************************************}
 {     assign(data1,'a:\datarez\dat1.txt');
      rewrite(data1);
-     writeln(data1,'í•¨Ø•‡†‚„‡≠†Ô ß†¢®·®¨Æ·‚Ï Ì´•™‚‡ÆØ‡Æ¢Æ§≠Æ·‚® Bi2Se3');
-     writeln(data1,'¢ ‚¢•‡§Æ¨ ® ¶®§™Æ¨ ·Æ·‚ÆÔ≠®® (§´Ô Æ°‡†ßÊÆ¢)');
+     writeln(data1,'–¢–µ–º–ø–µ—Ä–∞—Ç—É—Ä–Ω–∞—è –∑–∞–≤–∏—Å–∏–º–æ—Å—Ç—å —ç–ª–µ–∫—Ç—Ä–æ–ø—Ä–æ–≤–æ–¥–Ω–æ—Å—Ç–∏ Bi2Se3');
+     writeln(data1,'–≤ —Ç–≤–µ—Ä–¥–æ–º –∏ –∂–∏–¥–∫–æ–º —Å–æ—Å—Ç–æ—è–Ω–∏–∏ (–¥–ª—è –æ–±—Ä–∞–∑—Ü–æ–≤)');
      writeln(data1,'');
-     writeln(data1,'G*10-3, é¨-1*·¨-1           í, ä');
+     writeln(data1,'G*10-3, –û–º-1*—Å–º-1           –¢, –ö');
      writeln(data1,'');
      for i:=1 to 16 do
       writeln(data1,s1[i]:1:4);
@@ -125,10 +125,10 @@ begin
      close(data1);
      assign(data2,'a:\datarez\dat2.txt');
      rewrite(data2);
-     writeln(data2,'í•¨Ø•‡†‚„‡≠†Ô ß†¢®·®¨Æ·‚Ï Ì´•™‚‡ÆØ‡Æ¢Æ§≠Æ·‚® Bi2Se3');
-     writeln(data2,'¢ ‚¢•‡§Æ¨ ® ¶®§™Æ¨ ·Æ·‚ÆÔ≠®® (§†≠≠Î•)');
+     writeln(data2,'–¢–µ–º–ø–µ—Ä–∞—Ç—É—Ä–Ω–∞—è –∑–∞–≤–∏—Å–∏–º–æ—Å—Ç—å —ç–ª–µ–∫—Ç—Ä–æ–ø—Ä–æ–≤–æ–¥–Ω–æ—Å—Ç–∏ Bi2Se3');
+     writeln(data2,'–≤ —Ç–≤–µ—Ä–¥–æ–º –∏ –∂–∏–¥–∫–æ–º —Å–æ—Å—Ç–æ—è–Ω–∏–∏ (–¥–∞–Ω–Ω—ã–µ)');
      writeln(data2,'');
-     writeln(data2,'G*10-3, é¨-1*·¨-1           í, ä');
+     writeln(data2,'G*10-3, –û–º-1*—Å–º-1           –¢, –ö');
      writeln(data2,'');
      for i:=1 to 15 do
       writeln(data2,s2[i]:1:4);
@@ -138,10 +138,10 @@ begin
      close(data2);
      assign(data3,'a:\datarez\dat3.txt');
      rewrite(data3);
-     writeln(data3,'í•¨Ø•‡†‚„‡≠†Ô ß†¢®·®¨Æ·‚Ï Ø´Æ‚≠Æ·‚® Bi2Se3');
-     writeln(data3,'¢ ‚¢•‡§Æ¨ ® ¶®§™Æ¨ ·Æ·‚ÆÔ≠®® (§†≠≠Î•)');
+     writeln(data3,'–¢–µ–º–ø–µ—Ä–∞—Ç—É—Ä–Ω–∞—è –∑–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –ø–ª–æ—Ç–Ω–æ—Å—Ç–∏ Bi2Se3');
+     writeln(data3,'–≤ —Ç–≤–µ—Ä–¥–æ–º –∏ –∂–∏–¥–∫–æ–º —Å–æ—Å—Ç–æ—è–Ω–∏–∏ (–¥–∞–Ω–Ω—ã–µ)');
      writeln(data3,'');
-     writeln(data3,'d,£/·¨3                     í, ä');
+     writeln(data3,'d,–≥/—Å–º3                     –¢, –ö');
      writeln(data3,'');
      for i:=1 to 6 do
       writeln(data3,d1[i]:1:4);
@@ -151,10 +151,10 @@ begin
      close(data3);
      assign(data4,'a:\datarez\dat4.txt');
      rewrite(data4);
-     writeln(data4,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data4,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (20 †‚.% Se)');
+     writeln(data4,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data4,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (20 –∞—Ç.% Se)');
      writeln(data4,'');
-     writeln(data4,'v,c-cm                      í, ä');
+     writeln(data4,'v,c-cm                      –¢, –ö');
      writeln(data4,'');
      for i:=1 to 5 do
       writeln(data4,v1[i]:1:4);
@@ -164,10 +164,10 @@ begin
      close(data4);
      assign(data5,'a:\datarez\dat5.txt');
      rewrite(data5);
-     writeln(data5,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data5,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (40 †‚.% Se)');
+     writeln(data5,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data5,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (40 –∞—Ç.% Se)');
      writeln(data5,'');
-     writeln(data5,'v,c-cm                      í, ä');
+     writeln(data5,'v,c-cm                      –¢, –ö');
      writeln(data5,'');
      for i:=1 to 7 do
       writeln(data5,v2[i]:1:4);
@@ -177,10 +177,10 @@ begin
      close(data5);
      assign(data6,'a:\datarez\dat6.txt');
      rewrite(data6);
-     writeln(data6,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data6,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (50 †‚.% Se)');
+     writeln(data6,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data6,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (50 –∞—Ç.% Se)');
      writeln(data6,'');
-     writeln(data6,'v,c-cm                      í, ä');
+     writeln(data6,'v,c-cm                      –¢, –ö');
      writeln(data6,'');
      for i:=1 to 9 do
       writeln(data6,v3[i]:1:4);
@@ -190,10 +190,10 @@ begin
      close(data6);
      assign(data7,'a:\datarez\dat7.txt');
      rewrite(data7);
-     writeln(data7,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data7,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (55 †‚.% Se)');
+     writeln(data7,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data7,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (55 –∞—Ç.% Se)');
      writeln(data7,'');
-     writeln(data7,'v,c-cm                      í, ä');
+     writeln(data7,'v,c-cm                      –¢, –ö');
      writeln(data7,'');
      for i:=1 to 9 do
       writeln(data7,v4[i]:1:4);
@@ -203,10 +203,10 @@ begin
      close(data7);
      assign(data8,'a:\datarez\dat8.txt');
      rewrite(data8);
-     writeln(data8,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data8,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (58 †‚.% Se)');
+     writeln(data8,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data8,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (58 –∞—Ç.% Se)');
      writeln(data8,'');
-     writeln(data8,'v,c-cm                      í, ä');
+     writeln(data8,'v,c-cm                      –¢, –ö');
      writeln(data8,'');
      for i:=1 to 9 do
       writeln(data8,v5[i]:1:4);
@@ -216,10 +216,10 @@ begin
      close(data8);
      assign(data9,'a:\datarez\dat9.txt');
      rewrite(data9);
-     writeln(data9,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data9,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (60 †‚.% Se)');
+     writeln(data9,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data9,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (60 –∞—Ç.% Se)');
      writeln(data9,'');
-     writeln(data9,'v,c-cm                      í, ä');
+     writeln(data9,'v,c-cm                      –¢, –ö');
      writeln(data9,'');
      for i:=1 to 4 do
      writeln(data9,v6[i]:1:4);
@@ -229,10 +229,10 @@ begin
      close(data9);
      assign(data10,'a:\datarez\dat10.txt');
      rewrite(data10);
-     writeln(data10,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data10,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (62 †‚.% Se)');
+     writeln(data10,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data10,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (62 –∞—Ç.% Se)');
      writeln(data10,'');
-     writeln(data10,'v,c-cm                      í, ä');
+     writeln(data10,'v,c-cm                      –¢, –ö');
      writeln(data10,'');
      for i:=1 to 6 do
       writeln(data10,v7[i]:1:4);
@@ -242,10 +242,10 @@ begin
      close(data10);
      assign(data11,'a:\datarez\dat11.txt');
      rewrite(data11);
-     writeln(data11,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data11,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (65 †‚.% Se)');
+     writeln(data11,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data11,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (65 –∞—Ç.% Se)');
      writeln(data11,'');
-     writeln(data11,'v,c-cm                      í, ä');
+     writeln(data11,'v,c-cm                      –¢, –ö');
      writeln(data11,'');
      for i:=1 to 5 do
      writeln(data11,v8[i]:1:4);
@@ -255,10 +255,10 @@ begin
      close(data11);
      assign(data12,'a:\datarez\dat12.txt');
      rewrite(data12);
-     writeln(data12,'á†¢®·®¨Æ·‚Ï ¢Ôß™Æ·‚® Æ‚ ‚•¨Ø•‡†‚„‡Î');
-     writeln(data12,'§´Ô ·Ø´†¢Æ¢ ·®·‚•¨Î Bi-Se (70 †‚.% Se)');
+     writeln(data12,'–ó–∞–≤–∏—Å–∏–º–æ—Å—Ç—å –≤—è–∑–∫–æ—Å—Ç–∏ –æ—Ç —Ç–µ–º–ø–µ—Ä–∞—Ç—É—Ä—ã');
+     writeln(data12,'–¥–ª—è —Å–ø–ª–∞–≤–æ–≤ —Å–∏—Å—Ç–µ–º—ã Bi-Se (70 –∞—Ç.% Se)');
      writeln(data12,'');
-     writeln(data12,'v,c-cm                      í, ä');
+     writeln(data12,'v,c-cm                      –¢, –ö');
      writeln(data12,'');
      for i:=1 to 6 do
       writeln(data12,v9[i]:1:4);
